@@ -1,4 +1,4 @@
-package com.karma.stack;
+package com.karma.stack
 
 import com.karma.stack.exception.StackEmptyException;
 import com.karma.stack.exception.StackFullException;
